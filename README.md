@@ -1,2 +1,2 @@
-# animerecommender
-Attempting to use recommendation algorithms on anime dataset
+# Anime recommender
+Used KNN Algorithm to find similar animes and recommending it when inputted the anime ID or the name
